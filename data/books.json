@@ -1,0 +1,26 @@
+[
+  {
+    "id": "a1f2d7bc-91cf-4b9f-a84c-347681eac3c1",
+    "title": "The Book 1",
+    "author": "ABC",
+    "genre": "Self help",
+    "publishedYear": 1997,
+    "userId": "user-1"
+  },
+  {
+    "id": "a1f2d7bc-91cf-4b9f-a84c-347681eac3c2",
+    "title": "The Book 2",
+    "author": "XYZ",
+    "genre": "Fantasy",
+    "publishedYear": 2000,
+    "userId": "user-2"
+  },
+  {
+    "id": "21af4bd8-cbe3-4153-9f46-8a92c4ea2396",
+    "title": "The Book 3",
+    "author": "ABCD",
+    "genre": "Science Fiction",
+    "publishedYear": 1920,
+    "userId": "659e49ee-9fd4-4e0f-86b7-2779dee6caa8"
+  }
+]
