@@ -19,23 +19,7 @@ cd bookstore-api
 npm install
 ```
 
-### 3. Create Data Files
-
-Create a `data/` folder and add:
-
-#### `users.json`
-```json
-[]
-```
-
-#### `books.json`
-```json
-[]
-```
-
-> These files will be used for persistence.
-
-### 4. Run the Server
+### 3. Run the Server
 
 ```bash
 npm start
