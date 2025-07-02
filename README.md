@@ -39,8 +39,8 @@ POST /auth/register
 **Body:**
 ```json
 {
-  "email": "alice@example.com",
-  "password": "alice123"
+  "email": "abc@example.com",
+  "password": "abc123"
 }
 ```
 
@@ -54,8 +54,8 @@ POST /auth/login
 **Body:**
 ```json
 {
-  "email": "alice@example.com",
-  "password": "alice123"
+  "email": "abc@example.com",
+  "password": "abc123"
 }
 ```
 
