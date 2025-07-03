@@ -9,7 +9,7 @@ A Node.js + Express RESTful API for managing books with file-based storage and J
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/bhavyashukla23/bookstore-fs-rest-api.git
+git clone https://github.com/bhavyashukla23/bookstore-api.git
 ```
 
 ### 2. Install Dependencies
